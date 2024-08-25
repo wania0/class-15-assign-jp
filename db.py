@@ -1,6 +1,5 @@
 import pymysql
 
-
 def mysqlconnect():
     # To connect MySQL database
     conn = pymysql.connect(
